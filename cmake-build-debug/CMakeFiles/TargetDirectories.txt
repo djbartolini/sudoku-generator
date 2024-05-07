@@ -1,0 +1,3 @@
+/Users/djbartolini/dev/sudoku-generator/cmake-build-debug/CMakeFiles/sudoku_generator.dir
+/Users/djbartolini/dev/sudoku-generator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/djbartolini/dev/sudoku-generator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
