@@ -213,6 +213,12 @@ CMAKE_TAPI:FILEPATH=/Library/Developer/CommandLineTools/usr/bin/tapi
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
+//No help, variable specified on the command line.
+Python3_EXECUTABLE:UNINITIALIZED=/Users/djbartolini/dev/sudoku-generator/venv/bin/python
+
+//No help, variable specified on the command line.
+Python_EXECUTABLE:UNINITIALIZED=/Users/djbartolini/dev/sudoku-generator/venv/bin/python
+
 //Value Computed by CMake
 sudoku_generator_BINARY_DIR:STATIC=/Users/djbartolini/dev/sudoku-generator/cmake-build-debug
 

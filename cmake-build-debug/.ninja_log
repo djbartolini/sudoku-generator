@@ -1,5 +1,4 @@
 # ninja log v5
-1	255	1715089016250351311	CMakeFiles/sudoku_generator.dir/main.cpp.o	a83cd658cd98b55
+4	244	1715089103247807706	CMakeFiles/sudoku_generator.dir/main.cpp.o	a83cd658cd98b55
 1	264	1715089016259491597	CMakeFiles/sudoku_generator.dir/generator.cpp.o	aaac4d6ce86e6fdb
 264	303	1715089016299048402	sudoku_generator	f03c37489648c51d
-4	244	1715089103247807706	CMakeFiles/sudoku_generator.dir/main.cpp.o	a83cd658cd98b55
